@@ -1,0 +1,7 @@
+{
+  "name": "KwanzaFlow ERP - Gestão Empresarial Angola",
+  "description": "Um sistema ERP robusto e moderno adaptado ao mercado angolano, integrando gestão escolar, vendas, financiamento de projetos e pagamentos locais como PayPay AO e bancos nacionais.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
